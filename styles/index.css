@@ -1,0 +1,47 @@
+
+header{
+    text-align: center;
+    color:blueviolet;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.founder-image{
+    width: 200px;
+    border: 5px solid blueviolet;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+
+.founder{
+    padding: 20px;
+    display: flex;
+    vertical-align: top;
+    width: 80%;
+    border-radius: 10px;
+    margin: auto;
+    border: 2px solid blueviolet;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    align-items: center;
+    justify-content: center;
+}
+.courses{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+.btech-logo{
+    width: 200px;
+    border: 2px solid blueviolet;
+    border-radius: 5px;
+}
+
+.courses{
+    padding: 10px;
+}
+.diploma-logo{
+    width: 200px;
+    border: 2px solid blueviolet;
+    border-radius: 5px;
+}
